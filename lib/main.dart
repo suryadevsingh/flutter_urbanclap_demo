@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: <Widget>[
                   Text(
-                    'YOU ARE IN',
+                    "YOU ARE IN",
                     style: TextStyle(fontSize: 12),
                   ),
                   Row(
